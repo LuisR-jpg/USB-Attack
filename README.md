@@ -18,7 +18,7 @@ It contains the files that should be loaded into the USB.
 
 ## Demo
 
-Click on the image to see how it went when we tried it out in our u.
+See [how it went](https://www.youtube.com/watch?v=tf5f7rtQ-5w).
 
 [![How it went](https://github.com/LuisR-jpg/USB-Attack/blob/main/docs/USBImage.jpg)](https://www.youtube.com/watch?v=tf5f7rtQ-5w)
 
