@@ -18,6 +18,8 @@ It contains the files that should be loaded into the USB.
 
 ## Demo
 
+**See how it went**
+
 [![How it went](https://github.com/LuisR-jpg/USB-Attack/blob/main/docs/USBImage.jpg)](https://www.youtube.com/watch?v=tf5f7rtQ-5w)
 
 ###### This project is a collaboration of [Sara Gomez](https://github.com/saracarolina12), [David Arcos](https://github.com/Gamapro), [Luis Robles](https://github.com/LuisR-jpg).
