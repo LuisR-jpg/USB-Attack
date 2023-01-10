@@ -2,9 +2,9 @@
 
 ## Description of the project
 
-![First page](https://github.com/LuisR-jpg/PenDrive-Attack/blob/main/docs/PenDrive%20Attack-2.jpg)
-![Second page](https://github.com/LuisR-jpg/PenDrive-Attack/blob/main/docs/PenDrive%20Attack-3.jpg)
-![Third page](https://github.com/LuisR-jpg/PenDrive-Attack/blob/main/docs/PenDrive%20Attack-4.jpg)
+![First page](https://github.com/LuisR-jpg/USB-Attack/blob/main/docs/PenDrive%20Attack-2.jpg)
+![Second page](https://github.com/LuisR-jpg/USB-Attack/blob/main/docs/PenDrive%20Attack-3.jpg)
+![Third page](https://github.com/LuisR-jpg/USB-Attack/blob/main/docs/PenDrive%20Attack-4.jpg)
 
 ## Structure of the repository
 
