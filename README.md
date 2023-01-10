@@ -16,9 +16,10 @@ It contains the scripts that should be running in a computer. (Preferably hidden
 
 It contains the files that should be loaded into the USB. 
 
-
-###### This project is a collaboration of [Sara Gomez](https://github.com/saracarolina12), [David Arcos](https://github.com/Gamapro), [Luis Robles](https://github.com/LuisR-jpg).
-
 ## Demo
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tf5f7rtQ-5w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ![How it went](https://www.youtube.com/watch?v=tf5f7rtQ-5w)
+
+###### This project is a collaboration of [Sara Gomez](https://github.com/saracarolina12), [David Arcos](https://github.com/Gamapro), [Luis Robles](https://github.com/LuisR-jpg).
